@@ -1,0 +1,27 @@
+{
+  "identifier" : "rowmarker",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "rowmarker_pro",
+      "localizations" : [
+        {
+          "description" : "Rowmarker Pro unlocks unlimited rows and pro features.",
+          "displayName" : "Rowmarker Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "rowmarker_pro",
+      "referenceName" : "Rowmarker Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
